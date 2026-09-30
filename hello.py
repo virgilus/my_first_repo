@@ -1,1 +1,1 @@
-print("Hello from the first commit! I'm inside my_new_branch")
+print("Hello from the first commit! I'm on the main branch. Let's create a conflict !")
