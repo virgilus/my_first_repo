@@ -1,2 +1,2 @@
 print("""
-      Hello, world! Conflict from my_new_branch !""")
+      Hello, world! Conflict is resolved! (hopefully)""")
