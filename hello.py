@@ -1,1 +1,2 @@
-print("Hello, world! I'm editing this from my_new_branch!")
+print("""
+      Hello, world! Conflict from my_new_branch !""")
